@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd backend/
 
 sudo systemctl start mongod.service
